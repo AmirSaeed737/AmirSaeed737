@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @its_AiMMi
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter work
+- 💞️ I’m looking to collaborate on React work
 - 📫 Reach me at: aamirsaeed@gmail.com or WhatsApp: +92311-9151770
 
 <!---
